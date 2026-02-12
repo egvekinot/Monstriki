@@ -1,4 +1,4 @@
-f->start
+->start
 ===start===
 #Location: nach
 
